@@ -110,7 +110,7 @@ enter `search -f user.txt`
 
 <img src="file://C:/Users/system%20admins/.config/joplin-desktop/resources/d4f729955d2246cc82ba6ca4a4bd10fb.png?t=1601664985628" alt="67cedececaea9450eafd8a0e99e0f99b.png" width="534" height="89" class="jop-noMdConv">
 
-now  enter search -f root.txt
+now  enter search -f root.txt 
 
 <img src="file://C:/Users/system%20admins/.config/joplin-desktop/resources/ed4d9557bcbb4879acf4dc26cc1df452.png?t=1601665043882" alt="c05fa8d7b75d23999f71067f38283ee4.png" width="530" height="83" class="jop-noMdConv">
 
