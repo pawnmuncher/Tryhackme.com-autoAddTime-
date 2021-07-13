@@ -106,7 +106,7 @@ Next, let's migrate to any NT AUTHORITY\\SYSTEM account by entering `migrate <sv
 
 With your newly found powers, go get the flags!
 
-enter `search -f user.txt`
+enter `search -f user.txt` 
 
 <img src="file://C:/Users/system%20admins/.config/joplin-desktop/resources/d4f729955d2246cc82ba6ca4a4bd10fb.png?t=1601664985628" alt="67cedececaea9450eafd8a0e99e0f99b.png" width="534" height="89" class="jop-noMdConv">
 
