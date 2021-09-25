@@ -6,7 +6,7 @@
 
 ## Description
 
-_This little script simply simualtesd a mouse click of the "add time" button on any live tryhackme lab machine._
+_This little script simply simulates a mouse click of the "add time" button on any live tryhackme lab machineat a preset interval._
 
 ## Setup/Installation Requirements
 
