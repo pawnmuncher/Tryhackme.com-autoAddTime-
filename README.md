@@ -10,7 +10,7 @@ _This little script simply simulates a mouse click of the "add time" button on a
 
 ## Setup/Installation Requirements
 
-* _Open the Developers Tools for the Tryhackme Machine_
+* _Open the Developers Tools for the Tryhackme Machine browser window_
 * _Copy and Paste the code into the console tab._
 * _Set the script Interval, i.e. how often should the script click the "add time" button for you_
 * _in milliseconds_
