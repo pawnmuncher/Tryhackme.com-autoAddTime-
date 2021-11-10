@@ -30,4 +30,4 @@ _Jquery_
 
 ### License
 
-*MIT*
+*free to use*
